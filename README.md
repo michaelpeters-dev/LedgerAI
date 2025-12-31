@@ -1,4 +1,4 @@
-# Finance Application – AI-Powered Financial Dashboard
+# Finance Application (Now LedgerAI)
 
 **Finance App** is a full-stack machine learning finance platform that empowers users to visualize, forecast, and analyze financial performance. From executive summaries to anomaly detection and predictive modeling, Finance App helps businesses navigate the uncertainties of the financial world.
 
